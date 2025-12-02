@@ -15,7 +15,7 @@ export default function About() {
 					</div>
 
 					{/* Текст */}
-					<div className="space-y-6">
+					<div className="space-y-8">
 						<span className="text-xs font-bold font-display uppercase tracking-widest block mb-2">About</span>
 
 						<h3 className="text-2xl md:text-3xl font-sans leading-snug max-w-md">

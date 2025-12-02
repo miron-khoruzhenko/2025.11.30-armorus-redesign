@@ -25,7 +25,7 @@ export default function Values() {
               <h4 className="text-sm font-display uppercase tracking-widest font-bold">
                 {item.title}
               </h4>
-              <p className="text-xs leading-relaxed opacity-70">
+              <p className="text-sm leading-relaxed opacity-70">
                 {item.description}
               </p>
             </div>
