@@ -8,7 +8,7 @@ export default function Footer() {
         
         {/* --- 1. ВЕРХНЯЯ СТРОКА: ИНФОРМАЦИЯ --- */}
         {/* Два блока, разнесенные по краям: Слева адрес, Справа контакты */}
-        <div className="flex flex-col md:flex-row justify-between items-start text-[10px] md:text-sm font-sans tracking-wide  mb-16 md:mb-20">
+        <div className="flex flex-col md:flex-row justify-between items-start text-sm font-sans tracking-wide  mb-16 md:mb-20">
           
           {/* Левый блок: Адрес и Год */}
           <div className="mb-6 md:mb-0 flex gap-8">
@@ -17,7 +17,7 @@ export default function Footer() {
           </div>
 
           {/* Правый блок: Email и Телефон (рядом друг с другом) */}
-          <div className="flex gap-12 md:gap-20">
+          <div className="flex flex-col lg:flex-row lg:gap-12 md:gap-20">
             <div className="flex gap-6">
               <span className="text-black block mb-1">Email:</span>
               <a href="mailto:info@armorus.tr" className=" hover:text-black transition">
@@ -35,10 +35,10 @@ export default function Footer() {
 
         {/* --- 2. СРЕДНЯЯ СТРОКА: НАВИГАЦИЯ --- */}
         {/* Не растянута (без justify-between). Используем gap, чтобы колонки были рядом. */}
-        <div className="flex flex-col md:flex-row gap-y-8 md:gap-x-32 items-start">
+        <div className="flex flex-col md:flex-row lg:gap-y-8 md:gap-x-32 items-start">
           
           {/* Колонка 1: Две строки */}
-          <div className="flex flex-col gap-2">
+          <div className="flex flex-col lg:gap-2">
             <Link href="/contact" className="text-lg font-bold uppercase tracking-widest text-black hover:opacity-60 transition">
               Contact
             </Link>
