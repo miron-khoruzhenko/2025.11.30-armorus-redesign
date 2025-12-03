@@ -20,6 +20,14 @@ const helvetica = localFont({
   variable: "--font-helvetica",
 });
 
+const commuterssans = localFont({
+  src: [
+    { path: '../../public/fonts/commuterssans/commuterssans-regular.otf', weight: '400' },
+    { path: '../../public/fonts/commuterssans/commuterssans-bold.otf', weight: '700' },
+  ],
+  variable: "--font-commuterssans",
+});
+
 export const metadata: Metadata = {
   title: "ARMORUS",
   description: "Precision Built for the Brave",
@@ -32,7 +40,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className={`${dinAlternate.variable} ${helvetica.variable} font-sans antialiased text-brand-black`}>
+      <body className={`${dinAlternate.variable} ${helvetica.variable} ${commuterssans.variable} font-sans antialiased text-brand-black`}>
         {children}
       </body>
     </html>

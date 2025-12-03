@@ -11,8 +11,10 @@ const config = {
   theme: {
     extend: {
       fontFamily: {
+        // Добавили Commuters Sans
+        commuters: ['var(--font-commuterssans)', 'sans-serif'], 
         sans: ['var(--font-helvetica)', 'Arial', 'sans-serif'],
-        display: ['var(--font-din)', 'Impact', 'sans-serif'], // Для заголовков
+        display: ['var(--font-din)', 'Impact', 'sans-serif'],
       },
       colors: {
         brand: {

@@ -12,7 +12,7 @@ export default function Footer() {
           
           {/* Левый блок: Адрес и Год */}
           <div className="mb-6 md:mb-0 flex gap-8">
-            <p className="font-bold mb-1">Ankara, Türkiye</p>
+            <p className="font-display mb-1">Ankara, Türkiye</p>
             <p className="text-black">© 2025</p>
           </div>
 
@@ -39,17 +39,17 @@ export default function Footer() {
           
           {/* Колонка 1: Две строки */}
           <div className="flex flex-col lg:gap-2">
-            <Link href="/contact" className="text-lg font-bold uppercase tracking-widest text-black hover:opacity-60 transition">
+            <Link href="/contact" className="text-lg font-bold uppercase font-display text-black hover:opacity-60 transition">
               Contact
             </Link>
-            <Link href="/about" className="text-lg font-bold uppercase tracking-widest text-black hover:opacity-60 transition">
+            <Link href="/about" className="text-lg font-bold uppercase font-display text-black hover:opacity-60 transition">
               About the Company
             </Link>
           </div>
 
           {/* Колонка 2: Одна строка (стоит рядом с первой колонкой) */}
           <div>
-             <Link href="/catalogue" className="text-lg font-bold uppercase tracking-widest text-black hover:opacity-60 transition">
+             <Link href="/catalogue" className="text-lg font-bold uppercase font-display text-black hover:opacity-60 transition">
               Get the Catalogue
             </Link>
           </div>
@@ -60,7 +60,7 @@ export default function Footer() {
 
       {/* --- 3. НИЖНЯЯ ЧАСТЬ: ОГРОМНЫЙ ЛОГОТИП --- */}
       <div className="w-full overflow-hidden leading-none mt-24">
-        <h2 className="text-[15vw] font-display font-bold uppercase tracking-wide text-center w-full translate-y-[15%]">
+        <h2 className="text-[15vw] font-commuters uppercase tracking-wide text-center w-full translate-y-[15%]">
           Armorus
         </h2>
       </div>
