@@ -82,7 +82,7 @@ export default function Header({ variant = "transparent" }: HeaderProps) {
         {/* --- MOBILE MENU OVERLAY --- */}
         {/* Крестик теперь внутри этого блока, он будет видим на темном фоне */}
         {isMobileMenuOpen && (
-          <div className="fixed inset-0 bg-gray-900 z-[60] flex flex-col justify-center items-center animate-in fade-in duration-200">
+          <div className="fixed inset-0 bg-neutral-950 z-[60] flex flex-col justify-center items-center animate-in fade-in duration-200">
             
             {/* Кнопка ЗАКРЫТЬ (Крестик) - Абсолютно в углу меню */}
             <button 

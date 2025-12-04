@@ -30,10 +30,10 @@ export default function Hero() {
           <div className="flex gap-6 justify-center">
             {/* Добавил w-48 и text-center для одинаковой ширины кнопок */}
             <Link href="/catalogue">
-                <Button variant="outline" className="w-48 flex justify-center">Our Catalogue</Button>
+                <Button variant="outline" className="w-40 flex justify-center">Our Catalogue</Button>
             </Link>
             <Link href="/contact">
-                <Button variant="outline" className="w-48 flex justify-center">Contact Us</Button>
+                <Button variant="outline" className="w-40 flex justify-center">Contact Us</Button>
             </Link>
           </div>
 

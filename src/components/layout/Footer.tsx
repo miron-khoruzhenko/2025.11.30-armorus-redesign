@@ -39,17 +39,17 @@ export default function Footer() {
           
           {/* Колонка 1: Две строки */}
           <div className="flex flex-col lg:gap-2">
-            <Link href="/contact" className="text-lg font-bold uppercase font-display text-black hover:opacity-60 transition">
+            <Link href="/contact" className="text-sm md:text-md font-bold uppercase font-display text-black hover:opacity-60 transition">
               Contact
             </Link>
-            <Link href="/about" className="text-lg font-bold uppercase font-display text-black hover:opacity-60 transition">
+            <Link href="/about" className="text-sm md:text-md font-bold uppercase font-display text-black hover:opacity-60 transition">
               About the Company
             </Link>
           </div>
 
           {/* Колонка 2: Одна строка (стоит рядом с первой колонкой) */}
           <div>
-             <Link href="/catalogue" className="text-lg font-bold uppercase font-display text-black hover:opacity-60 transition">
+             <Link href="/catalogue" className="text-sm md:text-md font-bold uppercase font-display text-black hover:opacity-60 transition">
               Get the Catalogue
             </Link>
           </div>

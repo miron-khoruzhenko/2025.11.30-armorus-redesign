@@ -2,7 +2,7 @@ import Container from "../ui/Container";
 
 export default function Products() {
   return (
-    <section className="pb-24 bg-white">
+    <section className="pb-24 pt-24 bg-white">
       <Container>
         <div className="max-w-2xl">
           <span className="text-sm font-bold font-display tracking block mb-6">Products</span>
