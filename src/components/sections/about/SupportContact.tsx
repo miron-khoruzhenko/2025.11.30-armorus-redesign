@@ -13,7 +13,7 @@ export default function SupportContact() {
 					<div className="relative aspect-square md:aspect-auto md:h-[600px] w-full bg-gray-200">
 						<div
 							className="absolute inset-0 bg-cover bg-center"
-							style={{ backgroundImage: "url('/images/veteran.jpg')" }} // Фото ветерана
+							style={{ backgroundImage: "url('/images/about/veteran.jpg')" }} // Фото ветерана
 						/>
 					</div>
 

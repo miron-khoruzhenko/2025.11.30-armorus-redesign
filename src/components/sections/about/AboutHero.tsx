@@ -6,7 +6,7 @@ export default function AboutHero() {
       {/* ФОН */}
       <div 
         className="absolute inset-0 bg-cover bg-center bg-no-repeat z-0"
-        style={{ backgroundImage: "url('/images/about-hero-jet.jpg')" }} // Замените на фото самолета
+        style={{ backgroundImage: "url('/images/about/about-hero-jet.jpg')" }} // Замените на фото самолета
       >
         <div className="absolute inset-0 bg-black/30" /> 
       </div>
