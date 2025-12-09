@@ -2,6 +2,7 @@ import Header from "@/components/layout/Header";
 import Footer from "@/components/layout/Footer";
 import ContactHero from "@/components/sections/contact/ContactHero";
 import ContactContent from "@/components/sections/contact/ContactContent";
+import MarqueeSeparator from "@/components/ui/MarqueeSeparator";
 
 export default function ContactPage() {
   return (
@@ -12,6 +13,8 @@ export default function ContactPage() {
       <ContactHero />
       
       <ContactContent />
+      
+      <MarqueeSeparator />
       
       <Footer />
     </main>
