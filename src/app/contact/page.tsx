@@ -14,7 +14,7 @@ export default function ContactPage() {
       
       <ContactContent />
       
-      <MarqueeSeparator />
+      {/* <MarqueeSeparator /> */}
       
       <Footer />
     </main>

@@ -26,8 +26,8 @@ export default function Footer() {
             </div>
             <div className="flex gap-6">
                <span className="text-black block mb-1">Tel:</span>
-               <a href="tel:+905055550211" className=" hover:text-black transition">
-                 +90 505 555 02 11
+               <a href="tel:+905327831498" className=" hover:text-black transition">
+                 +90 532 783 14 98
                </a>
             </div>
           </div>

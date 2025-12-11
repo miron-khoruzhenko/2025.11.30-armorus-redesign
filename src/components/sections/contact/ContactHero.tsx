@@ -13,7 +13,7 @@ export default function ContactHero() {
 
       <Container className="relative z-10 w-full">
          {/* tracking-tighter делает текст сжатым */}
-         <h1 className="text-[10vw] md:text-[8vw] leading-none font-commuters font-bold uppercase tracking-tighter text-white">
+         <h1 className="text-[10vw] md:text-[7vw] leading-none font-commuters font-medium uppercase tracking-wide text-white">
             Contact
          </h1>
       </Container>
