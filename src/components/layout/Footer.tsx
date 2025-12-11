@@ -60,7 +60,7 @@ export default function Footer() {
 
       {/* --- 3. НИЖНЯЯ ЧАСТЬ: ОГРОМНЫЙ ЛОГОТИП --- */}
       <div className="w-full overflow-hidden leading-none mt-24">
-        <h2 className="text-[15vw] font-commuters uppercase tracking-wide text-center w-full translate-y-[15%]">
+        <h2 className="text-[14vw] ml-[1vw] font-commuters font-medium uppercase tracking-widest text-center w-full translate-y-[15%]">
           Armorus
         </h2>
       </div>

@@ -28,7 +28,7 @@ export default function MissionIntro() {
             
             {/* Ссылка */}
             {/* font-normal (не bold), border-b-1 (тонкая линия), pb-0 (линия близко к тексту) */}
-            <Link href="/catalogue" className="text-xs font-sans uppercase tracking-widest border-b border-black pb-[1px] hover:opacity-60 transition text-black">
+            <Link href="/catalogue" className="text-sm font-sans uppercase border-b border-black pb-[1px] hover:opacity-60 transition text-black">
               Our Catalogue
             </Link>
 

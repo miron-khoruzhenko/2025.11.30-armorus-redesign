@@ -16,13 +16,13 @@ export default function About() {
 
 					{/* Текст */}
 					<div className="space-y-8 h-full flex flex-col items-start justify-between">
-						<span className="text-sm font-bold font-display font-display block mb-2">About</span>
+						<span className="text-sm font-bold font-display block mb-2">About</span>
 
-						<h3 className="text-2xl md:text-3xl font-sans leading-snug max-w-md">
+						<h3 className="text-2xl md:text-3xl font-sans max-w-md">
 							A defense manufacturer headquartered in Ankara, Türkiye — specializing in high-quality products built for mission-critical environments.
 						</h3>
 
-						<p className="text-sm leading-relaxed max-w-md">
+						<p className="text-sm max-w-md">
 							Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 						</p>
 

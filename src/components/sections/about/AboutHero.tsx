@@ -15,9 +15,8 @@ export default function AboutHero() {
       <div className="relative z-10 w-full pb-8 md:pb-12">
         {/* Огромный текст */}
         <div className="w-full overflow-hidden leading-none mb-6">
-          <h1 className="text-[13.5vw] font-commuters font-bold uppercase tracking-wide text-center w-full translate-y-[5%]">
-            Armorus
-          </h1>
+          <h1 className="text-[14vw] ml-[1vw]  font-commuters font-medium uppercase tracking-widest text-center w-full translate-y-[5%]">
+            Armorus</h1>
         </div>
         
         {/* Инфо-строка внизу (как в футере, но белая) */}

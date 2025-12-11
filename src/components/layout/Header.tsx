@@ -24,7 +24,7 @@ export default function Header({ variant = "transparent" }: HeaderProps) {
         
         {/* ЛОГОТИП (Шрифт Commuters Sans) */}
         <Link href="/" className={`group relative z-50 ${textColor}`}>
-          <h1 className="text-xl md:text-3xl font-commuters uppercase tracking-wide transition-opacity group-hover:opacity-80">
+          <h1 className="text-xl md:text-3xl font-commuters font-medium uppercase tracking-widest transition-opacity group-hover:opacity-80">
             Armorus
           </h1>
         </Link>

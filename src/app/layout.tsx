@@ -23,7 +23,8 @@ const helvetica = localFont({
 const commuterssans = localFont({
   src: [
     { path: '../../public/fonts/commuterssans/commuterssans-regular.otf', weight: '400' },
-    { path: '../../public/fonts/commuterssans/commuterssans-bold.otf', weight: '700' },
+    { path: '../../public/fonts/commuterssans/commuterssans-semibold.otf', weight: '500' },
+  { path: '../../public/fonts/commuterssans/commuterssans-bold.otf', weight: '700' },
   ],
   variable: "--font-commuterssans",
 });

@@ -25,7 +25,7 @@ export default function SupportContact() {
 								Contact us for support or<br /> product information
 							</h3>
 
-							<Link href="/contact" className="text-xs uppercase border-b border-black hover:opacity-60 transition text-black">
+							<Link href="/contact" className="text-sm  uppercase border-b border-black hover:opacity-60 transition text-black">
 								Contact Us
 							</Link>
 						</div>
