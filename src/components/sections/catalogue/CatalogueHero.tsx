@@ -39,9 +39,9 @@ export default function CatalogueHero() {
 						{/* Добавил w-48 и text-center для одинаковой ширины кнопок */}
 						<Link href="/catalogue">
 							<a
-								href="/docs/armorus_catalogue.pdf"
+								href="https://docs.google.com/document/d/194n8OvcckLoxvkqGL-Fsaaw-SsnSftHMd47Cjte1sxo/edit?usp=sharing"
 								target="_blank"
-								download="armorus_catalogue.pdf"
+								// download="armorus_catalogue.pdf"
 								className=""
 							>
 								<Button variant="outline" className="w-40 flex justify-center">Download</Button>
