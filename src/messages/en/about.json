@@ -1,0 +1,23 @@
+{
+  "MissionIntro": {
+    "title": "Security is not merely about \nequipment — it is the outcome of \nprecise engineering, rigorous testing, \nand a clear vision.",
+    "description": "At Armorus, we are dedicated to setting the highest standards of protection for military and security professionals. Every product we create is the culmination of advanced design, meticulous craftsmanship, and an unwavering commitment to safety in the field. For us, each innovation carries a profound responsibility — the responsibility of protecting lives.",
+    "link": "Our Catalogue"
+  },
+  "SupportContact": {
+    "title": "Contact us for support or \nproduct information",
+    "link": "Contact Us"
+  },
+  "MissionDetailed": {
+    "label": "Our Mission",
+    "title": "Delivering Advanced Protection for Those on the Front Line",
+    "p1": "To design and manufacture advanced ballistic protection systems that ensure maximum safety and operational confidence for military and law enforcement personnel. Our mission is to meet the real-world demands of the field by combining modern engineering, material innovation, and user-focused functionality in every product we create.",
+    "p2": "To strengthen defense capabilities through reliable, field-tested, and sustainable solutions that perform under the harshest conditions. Armorus is committed to continuous improvement — investing in research, testing, and production technologies to deliver uncompromising quality and protection that stands the test of time."
+  },
+  "Compliance": {
+    "label": "Our Products",
+    "title": "All Armorus products are \ndeveloped and tested in compliance \nwith both national and \ninternational quality standards.",
+    "description": "Every stage of production, from fabrics and stitching to \nequipment and ballistic performance, is monitored under ISO \nand EN regulations.",
+    "link": "View Catalogue"
+  }
+}

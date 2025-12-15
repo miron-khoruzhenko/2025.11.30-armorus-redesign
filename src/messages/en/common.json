@@ -1,0 +1,20 @@
+{
+  "Navbar": {
+    "links": {
+      "home": "Homepage",
+      "about": "About",
+      "catalogue": "Catalogue",
+      "contact": "Contact"
+    }
+  },
+	"Footer": {
+    "address": "Ankara, Türkiye",
+    "emailLabel": "Email:",
+    "telLabel": "Tel:",
+    "nav": {
+      "contact": "Contact",
+      "about": "About the Company",
+      "catalogue": "Get the Catalogue"
+    }
+  }
+}

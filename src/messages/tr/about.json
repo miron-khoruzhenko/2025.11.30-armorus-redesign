@@ -1,0 +1,23 @@
+{
+  "MissionIntro": {
+    "title": "Güvenlik sadece ekipmandan \nibaret değildir; hassas mühendislik, \ntitiz testler ve net bir vizyonun \nsonucudur.",
+    "description": "Armorus olarak, askeri ve güvenlik profesyonelleri için en yüksek koruma standartlarını belirlemeye kendimizi adadık. Yarattığımız her ürün, ileri tasarımın, titiz işçiliğin ve sahada güvenliğe olan sarsılmaz bağlılığın bir sonucudur. Bizim için her yenilik derin bir sorumluluk taşır — hayat kurtarma sorumluluğu.",
+    "link": "Kataloğumuz"
+  },
+  "SupportContact": {
+    "title": "Destek veya ürün bilgisi için \nbizimle iletişime geçin",
+    "link": "İletişime Geçin"
+  },
+  "MissionDetailed": {
+    "label": "Misyonumuz",
+    "title": "Ön Saflardakiler İçin İleri Düzey Koruma Sağlıyoruz",
+    "p1": "Askeri ve kolluk kuvvetleri personeli için maksimum güvenlik ve operasyonel güven sağlayan gelişmiş balistik koruma sistemleri tasarlamak ve üretmek. Misyonumuz, yarattığımız her üründe modern mühendislik, malzeme inovasyonu ve kullanıcı odaklı işlevselliği birleştirerek sahanın gerçek taleplerini karşılamaktır.",
+    "p2": "En zorlu koşullarda performans gösteren güvenilir, sahada test edilmiş ve sürdürülebilir çözümlerle savunma yeteneklerini güçlendirmek. Armorus, sürekli iyileştirmeye kendini adamıştır — zamana meydan okuyan tavizsiz kalite ve koruma sağlamak için araştırma, test ve üretim teknolojilerine yatırım yapmaktadır."
+  },
+  "Compliance": {
+    "label": "Ürünlerimiz",
+    "title": "Tüm Armorus ürünleri, \nhem ulusal hem de uluslararası \nkalite standartlarına uygun olarak \ngeliştirilip test edilmektedir.",
+    "description": "Kumaş ve dikişten ekipman ve balistik performansa kadar üretimin her aşaması, ISO ve EN yönetmelikleri kapsamında izlenmektedir.",
+    "link": "Kataloğu İncele"
+  }
+}

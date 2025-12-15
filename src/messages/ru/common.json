@@ -1,0 +1,20 @@
+{
+  "Navbar": {
+    "links": {
+      "home": "Главная",
+      "about": "О нас",
+      "catalogue": "Каталог",
+      "contact": "Контакты"
+    }
+  },
+  "Footer": {
+    "address": "Анкара, Турция",
+    "emailLabel": "Email:",
+    "telLabel": "Тел:",
+    "nav": {
+      "contact": "Контакты",
+      "about": "О компании",
+      "catalogue": "Получить каталог"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "Contact": {
+    "Hero": {
+      "title": "Contact"
+    },
+    "Info": {
+      "headquarters": "Headquarters",
+      "address": "Konutkent Mh. 3028. Sk. <br/> SMK TOWER 23.Kat No:100 <br/> 06810 Çankaya/Ankara",
+      "directContact": "Direct Contact",
+      "general": "General Inquiries:",
+      "sales": "Sales Department:",
+      "phone": "Phone:"
+    },
+    "Form": {
+      "title": "Send us a message",
+      "nameLabel": "Full Name",
+      "namePlaceholder": "John Doe",
+      "emailLabel": "Email Address",
+      "emailPlaceholder": "john@company.com",
+      "subjectLabel": "Subject",
+      "messageLabel": "Message",
+      "messagePlaceholder": "How can we help you?",
+      "submitButton": "Send Message",
+      "options": {
+        "product": "Product Inquiry",
+        "tech": "Technical Support",
+        "partnership": "Partnership",
+        "other": "Other"
+      }
+    }
+  }
+}

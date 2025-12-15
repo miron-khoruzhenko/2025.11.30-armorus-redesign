@@ -1,0 +1,26 @@
+{
+  "About": {
+    "label": "About",
+    "title": "A defense manufacturer headquartered in Ankara, Türkiye — specializing in high-quality products built for mission-critical environments.",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "button": "Read More"
+  },
+  "Products": {
+    "label": "Products",
+    "description": "Our product portfolio is designed for those who operate where failure is not an option. Every component reflects our core values quality in craftsmanship, integrity in process, and reliability in performance. From protective systems to tactical solutions, each product is meticulously engineered, rigorously tested, and trusted to endure the realities of modern defence missions."
+  },
+  "Values": {
+    "quality": {
+      "title": "Quality",
+      "description": "Quality is our foundation. From material selection to final inspection, we pursue excellence at every stage of production."
+    },
+    "integrity": {
+      "title": "Integrity",
+      "description": "We commit to transparency in our supply chain, precision in our craftsmanship, and reliability in every product we deliver."
+    },
+    "reliability": {
+      "title": "Reliability",
+      "description": "Our products and our word hold firm. We deliver on time, meet expectations, and provide steady support without compromise."
+    }
+  }
+}

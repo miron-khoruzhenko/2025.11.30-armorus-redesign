@@ -1,0 +1,33 @@
+{
+  "Contact": {
+    "Hero": {
+      "title": "Контакты"
+    },
+    "Info": {
+      "headquarters": "Центральный офис",
+      "address": "Konutkent Mh. 3028. Sk. <br/> SMK TOWER 23.Kat No:100 <br/> 06810 Çankaya/Ankara",
+      "directContact": "Прямая связь",
+      "general": "Общие вопросы:",
+      "sales": "Отдел продаж:",
+      "phone": "Телефон:",
+      "address_note": "Адрес я оставил на латинице, так как для почты это важнее, но заголовки переведены."
+    },
+    "Form": {
+      "title": "Отправьте нам сообщение",
+      "nameLabel": "ФИО",
+      "namePlaceholder": "Иван Иванов",
+      "emailLabel": "Email адрес",
+      "emailPlaceholder": "ivan@company.com",
+      "subjectLabel": "Тема",
+      "messageLabel": "Сообщение",
+      "messagePlaceholder": "Чем мы можем вам помочь?",
+      "submitButton": "Отправить",
+      "options": {
+        "product": "Запрос продукции",
+        "tech": "Техническая поддержка",
+        "partnership": "Партнерство",
+        "other": "Другое"
+      }
+    }
+  }
+}

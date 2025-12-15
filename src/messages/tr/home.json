@@ -1,0 +1,26 @@
+{
+  "About": {
+    "label": "Hakkımızda",
+    "title": "Merkezi Ankara, Türkiye'de bulunan, görev açısından kritik ortamlar için üretilmiş yüksek kaliteli ürünlerde uzmanlaşmış bir savunma sanayi üreticisi.",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "button": "Devamını Oku"
+  },
+  "Products": {
+    "label": "Ürünler",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco."
+  },
+  "Values": {
+    "quality": {
+      "title": "Kalite",
+      "description": "Kalite bizim temelimizdir. Malzeme seçiminden son kontrole kadar, üretimin her aşamasında mükemmelliği hedefleriz."
+    },
+    "integrity": {
+      "title": "Dürüstlük",
+      "description": "Tedarik zincirimizde şeffaflık, işçiliğimizde hassasiyet ve teslim ettiğimiz her üründe güvenilirlik taahhüt ediyoruz."
+    },
+    "reliability": {
+      "title": "Güvenilirlik",
+      "description": "Ürünlerimiz ve sözümüz sağlamdır. Zamanında teslim eder, beklentileri karşılar ve taviz vermeden istikrarlı destek sağlarız."
+    }
+  }
+}

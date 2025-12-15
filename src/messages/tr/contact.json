@@ -1,0 +1,32 @@
+{
+  "Contact": {
+    "Hero": {
+      "title": "İletişim"
+    },
+    "Info": {
+      "headquarters": "Merkez Ofis",
+      "address": "Konutkent Mh. 3028. Sk. <br/> SMK TOWER 23.Kat No:100 <br/> 06810 Çankaya/Ankara",
+      "directContact": "Doğrudan İletişim",
+      "general": "Genel Bilgi:",
+      "sales": "Satış Departmanı:",
+      "phone": "Telefon:"
+    },
+    "Form": {
+      "title": "Bize mesaj gönderin",
+      "nameLabel": "Ad Soyad",
+      "namePlaceholder": "Adınız Soyadınız",
+      "emailLabel": "E-posta Adresi",
+      "emailPlaceholder": "ornek@sirket.com",
+      "subjectLabel": "Konu",
+      "messageLabel": "Mesaj",
+      "messagePlaceholder": "Size nasıl yardımcı olabiliriz?",
+      "submitButton": "Gönder",
+      "options": {
+        "product": "Ürün Bilgisi",
+        "tech": "Teknik Destek",
+        "partnership": "İş Ortaklığı",
+        "other": "Diğer"
+      }
+    }
+  }
+}

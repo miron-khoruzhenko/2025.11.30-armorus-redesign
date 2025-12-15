@@ -1,12 +1,16 @@
+// src/data/navigation.ts
+
 export const navLinks = [
-  { label: "Homepage", href: "/" },
-  { label: "About", href: "/about" },
-  { label: "Contact", href: "/contact" },
-  { label: "Catalogue", href: "/catalogue" },
+  // href: "/" обычно обрабатывается отдельно, но можно оставить
+  // Я добавил key для перевода
+  { key: "home", href: "/" }, 
+  { key: "about", href: "/about" },
+  { key: "catalogue", href: "/catalogue" },
+  { key: "contact", href: "/contact" },
 ];
 
 export const languages = [
   { code: "en", label: "EN" },
   { code: "tr", label: "TR" },
-  { code: "ru", label: "RU" }, // На будущее
+  { code: "ru", label: "RU" },
 ];

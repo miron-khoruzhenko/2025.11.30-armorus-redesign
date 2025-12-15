@@ -1,0 +1,26 @@
+{
+  "About": {
+    "label": "О нас",
+    "title": "Производитель оборонной продукции со штаб-квартирой в Анкаре, Турция, специализирующийся на высококачественных изделиях для критически важных задач.",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "button": "Подробнее"
+  },
+  "Products": {
+    "label": "Продукция",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco."
+  },
+  "Values": {
+    "quality": {
+      "title": "Качество",
+      "description": "Качество — наша основа. От выбора материалов до финальной проверки мы стремимся к совершенству на каждом этапе производства."
+    },
+    "integrity": {
+      "title": "Добросовестность",
+      "description": "Мы гарантируем прозрачность в цепочке поставок, точность в исполнении и надежность каждого поставляемого продукта."
+    },
+    "reliability": {
+      "title": "Надежность",
+      "description": "Наши продукты и наше слово тверды. Мы доставляем вовремя, оправдываем ожидания и обеспечиваем стабильную поддержку без компромиссов."
+    }
+  }
+}
