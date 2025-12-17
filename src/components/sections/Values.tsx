@@ -1,11 +1,10 @@
 import Container from "../ui/Container";
 import { useTranslations } from "next-intl";
 
-// Определяем ключи, которые есть у нас в JSON файле
 const keys = ['quality', 'integrity', 'reliability'] as const;
 
 export default function Values() {
-  const t = useTranslations("Values"); // Берет ключи из home.json -> Values
+  const t = useTranslations("Values");
 
   return (
     <section className="bg-[#1a1a1a] text-white py-24">

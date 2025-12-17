@@ -1,13 +1,19 @@
 {
+  "HomeHero": {
+    "title": "Armorus'a Hoş Geldiniz,\nCesurlar İçin Hassasiyetle Üretildi.",
+    "description": "Merkezi Ankara, Türkiye'de bulunan, görev açısından kritik ortamlar için üretilmiş yüksek kaliteli ürünlerde uzmanlaşmış bir savunma sanayi üreticisi.",
+    "catalogueButton": "Kataloğumuz",
+    "contactButton": "Bize Ulaşın"
+  },
   "About": {
     "label": "Hakkımızda",
     "title": "Merkezi Ankara, Türkiye'de bulunan, görev açısından kritik ortamlar için üretilmiş yüksek kaliteli ürünlerde uzmanlaşmış bir savunma sanayi üreticisi.",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "description": "Armorus'ta biz sadece savunma ekipmanları üretmiyoruz, aynı zamanda güven inşa ediyoruz. Her tasarım hassasiyetle yönlendirilir, her süreç dürüstlüğe dayanır ve her ürün güvenilirlikte kanıtlanmıştır. Gelişmiş koruma sistemlerinden sahada güvenilen taktik çözümlere kadar, kararlılığımız sarsılmazdır: en çok ihtiyaç duyulduğunda üstün performans sunmak.",
     "button": "Devamını Oku"
   },
   "Products": {
     "label": "Ürünler",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco."
+    "description": "Ürün portföyümüz, başarısızlığın bir seçenek olmadığı yerlerde faaliyet gösterenler için tasarlanmıştır. Her bileşen, temel değerlerimizi yansıtır: işçilikte kalite, süreçte dürüstlük ve performansta güvenilirlik. Koruma sistemlerinden taktik çözümlere kadar, her ürün titizlikle tasarlanmış, titizlikle test edilmiş ve modern savunma görevlerinin gerçekliklerine dayanacak şekilde güvenilirdir."
   },
   "Values": {
     "quality": {

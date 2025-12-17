@@ -16,5 +16,10 @@
 			"about": "Şirket Hakkında",
 			"catalogue": "Kataloğu İndir"
 		}
-	}
+	},
+	"NotFound": {
+    "title": "Sayfa Bulunamadı",
+    "description": "Üzgünüz, aradığınız sayfa mevcut değil.",
+    "button": "Anasayfaya Dön"
+  }
 }

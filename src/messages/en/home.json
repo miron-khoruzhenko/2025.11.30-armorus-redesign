@@ -1,8 +1,14 @@
 {
+  "HomeHero": {
+    "title": "Welcome to Armorus,\nPrecision Built for the Brave.",
+    "description": "A defense manufacturer headquartered in Ankara, Türkiye — specializing in high-quality products built for mission-critical environments.",
+    "catalogueButton": "Our Catalogue",
+    "contactButton": "Contact Us"
+  },
   "About": {
     "label": "About",
     "title": "A defense manufacturer headquartered in Ankara, Türkiye — specializing in high-quality products built for mission-critical environments.",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "description": "At Armorus, we engineer more than defense equipment we build trust. Every design is guided by precision, every process grounded in integrity, and every product proven in reliability. From advanced protective systems to tactical solutions trusted in the field, our commitment is unwavering: to deliver superior performance when it matters most.",
     "button": "Read More"
   },
   "Products": {

@@ -4,7 +4,7 @@ import { useState, useRef } from "react";
 import Container from "@/components/ui/Container";
 import { FaWhatsappSquare } from "react-icons/fa";
 import { useTranslations } from "next-intl";
-import { Turnstile, TurnstileInstance } from "@marsidev/react-turnstile"; // Импортируем компонент
+import { Turnstile, TurnstileInstance } from "@marsidev/react-turnstile";
 
 // Типы для статуса формы
 type FormStatus = "idle" | "loading" | "success" | "error";
@@ -81,7 +81,7 @@ export default function ContactContent() {
               <h3 className="text-sm font-bold uppercase tracking-tight mb-4 border-b border-black pb-2 inline-block">
                 {t("Info.headquarters")}
               </h3>
-              <p className="text-sm font-light font-sans leading-relaxed">
+              <p className="text-sm font-light font-sans leading-relaxed whitespace-pre-wrap">
                 {t.rich("Info.address", {
                   br: () => <br />
                 })}

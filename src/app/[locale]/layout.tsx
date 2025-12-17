@@ -6,11 +6,9 @@ import { notFound } from "next/navigation";
 import { getMessages } from "next-intl/server";
 import { NextIntlClientProvider } from "next-intl";
 
-// Настройка локальных шрифтов
-// Убедитесь, что файлы шрифтов находятся в папке src/fonts или public/fonts
 const dinAlternate = localFont({
   src: [
-    { path: '../../../public/fonts/DINAlternate-Bold.ttf', weight: '700' }, // Пример пути
+    { path: '../../../public/fonts/DINAlternate-Bold.ttf', weight: '700' },
     // { path: '../../../public/fonts/DinAlternate-Medium.woff2', weight: '500' },
   ],
   variable: "--font-din",
@@ -38,7 +36,6 @@ export const metadata: Metadata = {
   description: "Precision Built for the Brave",
 };
 
-// 1. Генерируем статику для всех языков (SSG)
 export function generateStaticParams() {
   return routing.locales.map((locale) => ({ locale }));
 }

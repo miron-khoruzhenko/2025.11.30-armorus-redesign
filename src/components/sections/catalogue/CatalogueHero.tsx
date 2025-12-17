@@ -39,7 +39,7 @@ export default function CatalogueHero() {
             <a
               href="https://docs.google.com/document/d/194n8OvcckLoxvkqGL-Fsaaw-SsnSftHMd47Cjte1sxo/edit?usp=sharing"
               target="_blank"
-              rel="noopener noreferrer" // Хорошая практика безопасности для target="_blank"
+              rel="noopener noreferrer"
               className=""
             >
               <Button variant="outline" className="w-40 flex justify-center">

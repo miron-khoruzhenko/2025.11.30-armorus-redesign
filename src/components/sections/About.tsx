@@ -4,7 +4,7 @@ import { useTranslations } from "next-intl";
 import { Link } from "@/i18n/navigation"; 
 
 export default function About() {
-  const t = useTranslations("About"); // Берет ключи из home.json -> About
+  const t = useTranslations("About");
 
   return (
     <section className="py-24 bg-white">
@@ -36,7 +36,6 @@ export default function About() {
               {t("description")}
             </p>
 
-            {/* Используем Link вместо <a> для корректного перехода между языками */}
             <Link 
               href="/about" 
               className="inline-block text-sm font-sans uppercase border-b border-black pt-4 hover:opacity-60 transition"

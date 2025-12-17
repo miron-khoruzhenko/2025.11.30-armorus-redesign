@@ -10,15 +10,14 @@ export default function MissionIntro() {
       <Container>
         <div className="flex flex-col gap-16 md:gap-24">
           
-          <h2 className="text-3xl md:text-5xl font-sans leading-tight max-w-4xl text-black">
-            {/* Используем rich для поддержки тега <br> из json */}
+          <h2 className="text-3xl md:text-5xl font-sans leading-tight max-w-4xl text-black whitespace-pre-wrap">
             {t.rich("title", {
               br: () => <br />
             })}
           </h2>
 
           <div className="flex flex-col items-start gap-10 md:gap-14">
-            <p className="text-sm md:text-base text-black font-light max-w-2xl leading-relaxed font-sans">
+            <p className="text-sm md:text-base text-black font-light max-w-2xl leading-relaxed font-sans whitespace-pre-wrap">
               {t("description")}
             </p>
             

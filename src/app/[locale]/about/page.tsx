@@ -9,7 +9,6 @@ import Compliance from "@/components/sections/about/Compliance";
 export default function AboutPage() {
   return (
     <main className="min-h-screen bg-white">
-      {/* Header прозрачный (variant="transparent"), как на главной */}
       <Header variant="transparent" />
       
       <AboutHero />

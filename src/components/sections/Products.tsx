@@ -8,7 +8,7 @@ export default function Products() {
     <section className="pb-24 pt-24 bg-white">
       <Container>
         <div className="max-w-2xl">
-          <span className="text-sm font-bold font-display tracking block mb-6">
+          <span className="text-sm font-bold font-display tracking block mb-16">
             {t("label")}
           </span>
           <p className="text-xl md:text-2xl font-sans leading-normal">

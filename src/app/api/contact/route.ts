@@ -2,7 +2,6 @@
 import { NextResponse } from 'next/server';
 import { Resend } from 'resend';
 
-// Создаем экземпляр Resend, используя ключ из .env
 const resend = new Resend(process.env.RESEND_API_KEY);
 
 export async function POST(request: Request) {
@@ -14,7 +13,7 @@ export async function POST(request: Request) {
 			process.env.TURNSTILE_DUMMY_SECRET_KEY! :
 			process.env.TURNSTILE_SECRET_KEY!;
 
-		// 👇 Проверяем токен Turnstile
+		// Проверяем токен Turnstile
 		const turnstileResponse = await fetch('https://challenges.cloudflare.com/turnstile/v0/siteverify', {
 			method: 'POST',
 			headers: {
@@ -35,7 +34,7 @@ export async function POST(request: Request) {
 			return NextResponse.json({ error: 'Missing required fields' }, { status: 400 });
 		}
 
-		// ✅ Отправляем email с помощью Resend
+		// Отправляем email с помощью Resend
 		const { data, error } = await resend.emails.send({
 			from: 'Contact Form <form@armorus.tc>',
 			to: ['info@armorus.tc'],
