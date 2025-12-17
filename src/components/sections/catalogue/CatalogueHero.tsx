@@ -37,7 +37,7 @@ export default function CatalogueHero() {
           <div className="flex gap-6 justify-center">
             {/* Ссылка на Google Doc внешняя, поэтому используем обычный <a> */}
             <a
-              href="https://docs.google.com/document/d/194n8OvcckLoxvkqGL-Fsaaw-SsnSftHMd47Cjte1sxo/edit?usp=sharing"
+              href=""
               target="_blank"
               rel="noopener noreferrer"
               className=""
